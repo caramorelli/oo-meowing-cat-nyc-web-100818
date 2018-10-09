@@ -6,6 +6,9 @@ class Cat
   def initialize 
   end 
   
+  def meow
+  end 
+  
   
   
 end 
